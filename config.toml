@@ -1,6 +1,6 @@
 baseurl = "https://ckunderd.github.io/lifechurchsouthfield/"
 languageCode = "en-us"
-title = "Blackburn Theme Demo"
+title = "LifeChurch Southfield"
 theme = "blackburn"
 publishDir = "docs"
 copyright = "&copy; 2018. All rights reserved."
@@ -13,8 +13,8 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
-  brand = "Blackburn"
+  subtitle = "Systems Manual"
+  brand = "LifeChurch <br>Southfield"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
@@ -30,29 +30,29 @@ paginate = 10
     identifier = "home"
     url = "/"
   [[menu.main]]
-    name = "Posts"
+    name = "Connections"
     pre = "<i class='fa fa-list fa-fw'></i>"
     weight = 2
-    identifier = "post"
-    url = "/post/"
-  [[menu.main]]
-    name = "About"
-    pre = "<i class='fa fa-user fa-fw'></i>"
-    weight = 3
-    identifier = "about"
-    url = "/about/"
-  [[menu.main]]
-    name = "Contact"
-    pre = "<i class='fa fa-phone fa-fw'></i>"
-    weight = 4
-    url = "/contact/"
+    identifier = "connections"
+    url = "/connections/"
+  #[[menu.main]]
+   # name = "About"
+    #pre = "<i class='fa fa-user fa-fw'></i>"
+    #weight = 3
+    #identifier = "about"
+    #url = "/about/"
+  #[[menu.main]]
+   # name = "Contact"
+    #pre = "<i class='fa fa-phone fa-fw'></i>"
+    #weight = 4
+    #url = "/contact/"
 
-[social]
+#[social]
   # Link your social networking accouns to the side menu
   # by entering your username or ID.
-  twitter = "*"
-  facebook = "*"
-  instagram = "*"
-  github = "ckunderd"
-  stackoverflow = "*"
-  linkedin = "*"
+ # twitter = "*"
+ # facebook = "*"
+ # instagram = "*"
+ # github = "ckunderd"
+ # stackoverflow = "*"
+ # linkedin = "*"
