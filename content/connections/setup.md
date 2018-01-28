@@ -11,6 +11,8 @@ weight: 10
 
 Ensure you have all items listed at your disposal
 
+{{< figure src="/img/connections/black_top_box_1.png" title="Black Top Box 1" >}}
+
 -	Black Top Bin 1
 	-	Bibles
 	-	Serving tag bin
