@@ -11,14 +11,16 @@ weight: 10
 
 Ensure you have all items listed at your disposal
 
-{{< figure src="/img/connections/black_top_box_1.png" title="Black Top Box 1" >}}
+### Black Top Bin 1
 
--	Black Top Bin 1
-	-	Bibles
-	-	Serving tag bin
-	-	Communion baskets
-	-	Blank name tags
-	-	T-pins for tablecloths
+{{< figure src="/img/connections/black_top_box_1.png" alt="Black Top Box 1" width="400" >}}
+
+-	Bibles
+-	Serving tag bin
+-	Communion baskets
+-	Blank name tags
+-	T-pins for tablecloths
+
 -	Black Top Bin 2
 	-	6 offering baskets
 	-	2 Kleenex boxes (usually inside the offering basket)
