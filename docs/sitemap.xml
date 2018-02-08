@@ -3,8 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ckunderd.github.io/lifechurchsouthfield/connections/setup/</loc>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ckunderd.github.io/lifechurchsouthfield/post/creating-a-new-theme/</loc>
     <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ckunderd.github.io/lifechurchsouthfield/connections/migrate-from-jekyll/</loc>
+    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,7 +33,17 @@
   </url>
   
   <url>
+    <loc>https://ckunderd.github.io/lifechurchsouthfield/connections/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ckunderd.github.io/lifechurchsouthfield/post/goisforlovers/</loc>
+    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://ckunderd.github.io/lifechurchsouthfield/connections/hugoisforlovers/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
   </url>
   
@@ -33,8 +53,8 @@
   </url>
   
   <url>
-    <loc>https://ckunderd.github.io/lifechurchsouthfield/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://ckunderd.github.io/lifechurchsouthfield/connections/</loc>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -59,6 +79,12 @@
   <url>
     <loc>https://ckunderd.github.io/lifechurchsouthfield/tags/hugo/</loc>
     <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://ckunderd.github.io/lifechurchsouthfield/</loc>
+    <lastmod>2018-01-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
